@@ -1,0 +1,4 @@
+*.dll
+*.exp
+*.obj
+/sample/sample_extension.lib
