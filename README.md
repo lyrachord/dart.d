@@ -8,7 +8,7 @@ version 1.22.1
 Dart_FunctionName ==> functionName
 
 # plan
-current only x64 version. maybe x86.
+current only x64 version, dart/lib/x64/dart.lib. maybe x86.
 
 now dart_api.h binding completed, by hard coding.
 
