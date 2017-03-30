@@ -1,4 +1,4 @@
-module dart;
+module dart.api;
 
 import std.stdint;
 /*
@@ -33,6 +33,7 @@ enum Flag{
 //enum ILLEGAL_PORT: long = 0;
 
 //line 2026 Dart_TypedData_Type
+//FIXME change DartType
 enum DartType {  
 	ByteData,
 	Int8,
