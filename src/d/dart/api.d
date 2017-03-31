@@ -30,7 +30,7 @@ enum Flag{
 	CURRENT_VERSION=1,  //DART_FLAGS_CURRENT_VERSION
 	INITIALIZE_PARAMS_CURRENT_VERSION=2, //DART_
 }
-//enum ILLEGAL_PORT: long = 0;
+enum long ILLEGAL_PORT = 0;
 
 //line 2026 Dart_TypedData_Type
 //FIXME change DartType

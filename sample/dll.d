@@ -1,4 +1,7 @@
-import dart;
+import dart.api;
+import dart.native;
+import dart.tools;
+import dart.mirrors;
 
 import core.sys.windows.windows;
 import core.sys.windows.dll;
